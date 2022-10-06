@@ -1,0 +1,11 @@
+{
+  "name": "Pavlik",
+  "surname": "Morozov",
+  "age": 13,
+  "isPioneer": true,
+  "address": ["selo Geresinovka","Turinskiy yezd","Tobol'skaya gubernia"],
+  "father": {
+    "name": "Trofim",
+    "isProsperous": true
+  }
+}
